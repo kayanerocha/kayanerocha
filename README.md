@@ -1,7 +1,8 @@
 # Olá! Eu sou a Kayane Rocha
 
-- 🔭 Hoje trabalho como Estagiária atuando no Front-End e Back-End
-- 🌱 Estudando JavaScript, Python, PHP e Laravel
+- 💻 Hoje trabalho como Estagiária atuando no Front-End e Back-End
+- 👩‍🎓 Graduanda em Ciências da Computação
+- 📚 Estudando JavaScript, Python, PHP e Laravel
 - 😄 Pronomes: ela/dela
 
 <div align="center">
