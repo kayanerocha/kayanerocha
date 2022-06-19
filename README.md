@@ -1,4 +1,4 @@
-# Olá! Eu sou a Kayane Rocha
+# Olá, eu sou a Kayane Rocha
 
 - 💻 Hoje trabalho como Estagiária atuando no Front-End e Back-End
 - 👩‍🎓 Graduanda em Ciências da Computação
