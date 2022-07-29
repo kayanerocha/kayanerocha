@@ -2,7 +2,7 @@
 
 - 💻 Hoje trabalho como Estagiária atuando no Back-End
 - 👩‍🎓 Graduanda em Ciências da Computação
-- 📚 Estudando atualmente: Python, HTML, CSS
+- 📚 Estudando atualmente: Python (Programação Orientada a Objetos), HTML e CSS
 - 😄 Pronomes: ela/dela
 
 <div align="center">
