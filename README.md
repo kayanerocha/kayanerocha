@@ -1,6 +1,6 @@
 # Olá, eu sou a Kayane Rocha
 
-- 💻 Hoje trabalho como Estagiária atuando no Back-End
+- 💻 Hoje trabalho como Desenvolvedora Back-End Jr
 - 👩‍🎓 Graduanda em Ciências da Computação
 - 📚 Estudando atualmente: Java Orientado a Objetos
 - 😄 Pronomes: ela/dela
