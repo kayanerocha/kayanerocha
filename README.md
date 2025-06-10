@@ -2,7 +2,6 @@
 
 - 💻 Hoje trabalho como Desenvolvedora Back-End Jr
 - 👩‍🎓 Graduanda em Ciências da Computação
-- 📚 Estudando atualmente: Java Orientado a Objetos
 - 😄 Pronomes: ela/dela
 
 <div align="center">
